@@ -9,7 +9,7 @@ function App() {
       {/* Header comp invoke edildi */}
       <Header />
       <Main />
-      <Footer/>
+      <Footer />
     </div>
   );
 }
